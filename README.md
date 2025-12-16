@@ -3,6 +3,12 @@
 **Conversational AI for Your Documents**  
 *Upload documents, ask questions, and get intelligent answers powered by Retrieval-Augmented Generation (RAG).*
 
+
+## 🖼️ Screenshots
+### Chat Interface
+![Chat Interface](assets/rag_chat.png)
+
+
 ---
 
 ## 🚀 What is AskMyDocs?
