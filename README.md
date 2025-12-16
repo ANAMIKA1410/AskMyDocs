@@ -5,7 +5,7 @@
 
 
 ### Chat Interface
-![Chat Interface](assets/rag_chat.png)
+![Chat Interface](rag_chat.png)
 
 
 
@@ -109,4 +109,4 @@ python app.py
 ---
 
 ### Chat Interface
-![Chat Interface](assets/rag_chat_response.png)
+![Chat Interface](rag_chat_response.png)
