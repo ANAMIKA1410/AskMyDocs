@@ -4,9 +4,11 @@
 *Upload documents, ask questions, and get intelligent answers powered by Retrieval-Augmented Generation (RAG).*
 
 
-## 🖼️ Screenshots
 ### Chat Interface
 ![Chat Interface](assets/rag_chat.png)
+
+
+
 
 
 ---
@@ -96,3 +98,15 @@ python main.py
 
 # Start frontend
 python app.py
+
+
+
+```
+
+
+
+
+---
+
+### Chat Interface
+![Chat Interface](assets/rag_chat_response.png)
