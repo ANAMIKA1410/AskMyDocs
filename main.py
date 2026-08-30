@@ -197,7 +197,7 @@ app.add_middleware(
 rag_system = None
 
 # Gemini API Key
-GEMINI_API_KEY = "AIzaSyAlZpEvkMYBfefhhXMAQ6_3v_dqSCt87XU"
+GEMINI_API_KEY = ""
 
 
 # ============================================================================
